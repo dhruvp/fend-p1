@@ -1,3 +1,9 @@
+Grading Instructions
+--------------------
+
+1. Clone the repo
+2. Open the index.html and everything should work! (fingers crossed)
+
 Set Up
 ------
 
