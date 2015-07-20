@@ -7,3 +7,8 @@ Set Up
 4. npm install
 5. gulp
 6. Open the index.html file
+
+General Info
+------------
+
+We are using <a href="http://www.getskeleton.com" target="_blank">skeleton</a> for our grid system.
