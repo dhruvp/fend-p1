@@ -1,0 +1,37 @@
+.dark-gray-text {
+  color: #747704;
+}
+.gap-above {
+  margin-top: 20px;
+}
+.all-caps {
+  text-transform: uppercase;
+}
+.light-gray-text {
+  color: #bcbbbb;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.img-responsive {
+  width: 100%;
+}
+.portfolio {
+  font-family: "Lato";
+}
+.portfolio header {
+  height: 120px;
+}
+.portfolio header .user-image-holder .user-avatar {
+  width: 70%;
+  padding: 10px;
+}
+.portfolio .project-image {
+  max-height: 350px;
+}
